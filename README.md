@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 ### 🛠 常用语言统计
 
+# <p align="center"><img src="https://capsule-render.vercel.app/render?type=soft&text=Actinium's%20Blog&fontSize=45&fontAlignY=45&color=1a3a4a&customColorList=15,1a3a4a,40E0D0&height=150&section=header&reversal=false&desc=%CE%A4%CE%BF%20%CE%B9%CF%83%CF%84%CE%BF%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF%20%CF%84%CE%BF%CF%85%20%CE%91%CE%BA%CF%84%CE%AF%CE%BD%CE%BF%CF%82%20%CE%9F%CE%BE%CF%85%CF%86%CE%BB%CF%8E%CF%81%CE%BF%CF%85&descSize=15&descAlignY=70" /></p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce225&hide=html,css&theme=radical&bg_color=1a3a4a&title_color=40E0D0&text_color=ffffff&border_radius=15" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce225&theme=radical&hide=html,css&bg_color=1a3a4a&title_color=40E0D0&text_color=ffffff&border_radius=20&hide_border=true&card_width=450" />
 </p>
+
