@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### 🛠 常用语言统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce225&theme=radical&hide=html,css&bg_color=1a3a4a&title_color=40E0D0&text_color=ffffff&border_radius=20&hide_border=true&card_width=450" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruce225&theme=radical&hide=html,css&bg_color=1a3a4a&title_color=40E0D0&text_color=ffffff&border_radius=20&hide_border=true&card_width=450" />
 </p>
